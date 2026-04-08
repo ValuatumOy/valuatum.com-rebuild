@@ -452,7 +452,7 @@ body::before {
   background-position: center;
   opacity: 0;
   transform: scale(1.04);
-  transition: opacity var(--trs-slide), transform 8000ms ease-out;
+  transition: opacity var(--trs-slide), transform 4500ms ease-out;
 }
 
 .hero-slide.active {
